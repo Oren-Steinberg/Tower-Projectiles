@@ -156,3 +156,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   projectilePrefab: {fileID: 3032665298346114500, guid: f629b7157df11444cb544bd361599902, type: 3}
+  buggyPrefab: {fileID: 3321744989819544116, guid: ac4b08166ce7f5a47a6955914d131951, type: 3}
